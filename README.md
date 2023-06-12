@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>My name is Pedro and I'm a self-learning Junior Software Developer from Madeira Island, Portugal.🏝️<br>As a developer, I'm always eager to expand my knowledge😁 <br>
+Hi!<br>My name is Pedro and I'm a self-learning Junior Software Developer from Madeira Island, Portugal.🏝️
 
 
 ## 🌐 Socials:
